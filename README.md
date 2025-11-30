@@ -2,7 +2,7 @@
 
 ### Python implementation of common algorithms and data structures.
 
-This repository is a collection of fundamental algorithms and data structures implemented in Python. It's was built as a learning resource, a quick reference, and a place to practice core computer science concepts.
+This repository is a collection of fundamental algorithms and data structures implemented in Python. It was built as a learning resource, a quick reference, and a place to practice core computer science concepts.
 
 ## 🏗️ Data Structures Implemented
 
