@@ -8,9 +8,9 @@ This repository is a collection of fundamental algorithms and data structures im
 
 This section lists the data structures currently available in the repository.
 
-| Structure | Description |
-| :--- | :--- |
-| [Singly Linked List](data_structures/linked_list.py) | Python implementation of a Singly Linked List class and some useful methods. More methods might be added in the future. |
+| Structure | Description | Access | Insertion | Deletion |
+| :--- | :--- | :---: | :---: | :---: |
+| [**Singly Linked List**](data_structures/linked_list.py) | A linear collection of data elements pointing to the next node. This implementation has head and tail pointers. | `O(n)` | `O(1)` | `O(1)` |
 
 
 ## 🧠 Algorithms Implemented
@@ -20,4 +20,4 @@ This section details the various algorithmic categories and examples available.
 ### Sorting Algorithms
 | Algorithm | Description | Time complexity |
 | :--- | :--- | :--- |
-| [Binary Search](algorithms/binary_search.py) | Given a sorted array and a target value, if the target is in the array, returns the index of the target. Otherwise, returns None | *O(log n)* |
+| [Binary Search](algorithms/binary_search.py) | Given a sorted array and a target value, if the target is in the array, returns the index of the target. Otherwise, returns None | `O(log n)` |
