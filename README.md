@@ -22,3 +22,4 @@ This section details the various algorithmic categories and examples available.
 | Algorithm | Description | Time complexity |
 | :--- | :--- | :--- |
 | [Binary Search](algorithms/binary_search.py) | Given a sorted array and a target value, if the target is in the array, returns the index of the target. Otherwise, returns None | `O(log n)` |
+| [Selection Sort](algorithms/selection_sort.py) | Given an array of integers, returns the sorted version of this array. | `O(n²)` |
