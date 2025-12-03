@@ -12,6 +12,7 @@ This section lists the data structures currently available in the repository.
 | :--- | :--- | :---: | :---: | :---: |
 | [**Singly Linked List**](data_structures/linked_list.py) | A linear collection of data elements pointing to the next node. This implementation has head and tail pointers. | `O(n)` | `O(1)` | `O(1)` |
 | [**Array**](data_structures/array.py) | Contiguous memory blocks allowing instant access by index. | `O(1)` | `O(n)` | `O(n)` |
+| [**Stack**](data_structures/stack.py) | LIFO (Last-In, First-Out) collection. Elements are added/removed from the "top". | `O(n)` | `O(1)` | `O(1)` |
 
 
 ## 🧠 Algorithms Implemented
